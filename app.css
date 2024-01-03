@@ -109,7 +109,7 @@
 .contact-insta{
     position:fixed;
     z-index: 2;
-    width: 40%;
+    width: fit-content;
     top: 80%;
     left: 0%;
     text-align: left;
