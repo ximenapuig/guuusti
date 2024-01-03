@@ -125,11 +125,7 @@
     color: grey;
     text-decoration: none;
 }
-.contact-insta p{
-    display: block;
-    color: grey;
-    text-decoration: none;
-}
+
 .contact-div{
     display: block;
     padding-top: 100px;
@@ -145,17 +141,5 @@
     font-weight:normal;
 }
 .xp{
-    position:fixed;
-    z-index: 2;
-    width: 20%;
-    top: 80%;
-    left: 0%;
-    text-align: left;
-    font-family: Optima;
-    font-weight:normal;
-    font-style:italic;
     font-size: 8px;
-    display: block;
-    color: grey;
-    text-decoration: none;
 }
