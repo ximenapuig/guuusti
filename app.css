@@ -79,8 +79,8 @@
 }
 .gallery-graphic-design img{
     width: 100%;
-    max-height: 100%;
-    max-width: 100%;
+    max-width: 40rem;
+    max-height: 30rem;
     margin-top: 10px;
     margin-bottom: 23px;
 }
