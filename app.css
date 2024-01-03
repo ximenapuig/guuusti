@@ -125,6 +125,11 @@
     color: grey;
     text-decoration: none;
 }
+.contact-insta p{
+    display: block;
+    color: grey;
+    text-decoration: none;
+}
 .contact-div{
     display: block;
     padding-top: 100px;
