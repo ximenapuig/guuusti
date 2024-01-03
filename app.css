@@ -140,6 +140,17 @@
     font-weight:normal;
 }
 .xp{
+    position:fixed;
+    z-index: 2;
+    width: 20%;
+    top: 80%;
+    left: 0%;
+    text-align: left;
+    font-family: Optima;
     font-weight:normal;
+    font-style:italic;
     font-size: 12px;
+    display: block;
+    color: grey;
+    text-decoration: none;
 }
